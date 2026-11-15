@@ -7,7 +7,7 @@
 import { getStore } from '@netlify/blobs';
 import { handleBanter } from '../../src/online/banter-core';
 import type { KeyValueStore } from '../../src/online/leaderboard-core';
-import { createBanterWriter } from './banter-writer';
+import { createBanterWriter } from '../lib/banter-writer';
 
 interface FunctionContext {
   ip?: string;

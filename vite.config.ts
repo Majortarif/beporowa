@@ -3,7 +3,7 @@ import type { ViteDevServer } from 'vite';
 import { defineConfig, type Plugin } from 'vitest/config';
 import type * as LeaderboardCore from './src/online/leaderboard-core.ts';
 import type * as BanterCore from './src/online/banter-core.ts';
-import type * as BanterWriter from './netlify/functions/banter-writer.ts';
+import type * as BanterWriter from './netlify/lib/banter-writer.ts';
 
 /** Reads a Node request into a web Request, the shape the shared handlers take. */
 async function toRequest(req: IncomingMessage): Promise<Request> {
@@ -56,7 +56,7 @@ function devApi(): Plugin {
           void Promise.all([toRequest(req), load(server), server.ssrLoadModule('/src/online/banter-core.ts') as Promise<typeof BanterCore>])
             .then(async ([request, { banterStore: store }, banter]) => {
               const writer = process.env.ANTHROPIC_API_KEY
-                ? ((await server.ssrLoadModule('/netlify/functions/banter-writer.ts')) as typeof BanterWriter).createBanterWriter(process.env.BANTER_MODEL || undefined)
+                ? ((await server.ssrLoadModule('/netlify/lib/banter-writer.ts')) as typeof BanterWriter).createBanterWriter(process.env.BANTER_MODEL || undefined)
                 : null;
               return banter.handleBanter(request, { store, now: () => Date.now(), clientIp, write: writer });
             })

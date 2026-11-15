@@ -4,5 +4,5 @@
     "types": ["node"],
     "lib": ["ES2022", "DOM", "DOM.Iterable"]
   },
-  "include": ["functions", "../server", "../src/online/*-core.ts"]
+  "include": ["functions", "lib", "../server", "../src/online/*-core.ts"]
 }
