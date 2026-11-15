@@ -1,0 +1,2111 @@
+{
+  "app": {
+    "name": "Beporowa",
+    "latinName": "Beporowa",
+    "tagline": "Neon, monsoon and the pull of the lanes",
+    "phase": "Phase 7: challenges, ghosts and friends",
+    "documentTitle": "Beporowa | Bangla street racer"
+  },
+  "boot": {
+    "loading": "Getting the car ready…",
+    "tipLabel": "Proverb",
+    "failed": "The game could not start. Check that WebGL2 is enabled in this browser, then reload.",
+    "retry": "Try again"
+  },
+  "title": {
+    "start": "Start the car",
+    "settings": "Settings",
+    "controls": "Controls",
+    "disclaimer": "This recklessness stays in the game, never on real roads.",
+    "today": "Today: {date}",
+    "car": "{car} · Tk {cash} · Level {level}",
+    "road": "Location: Borshabad test road",
+    "roadCity": "Location: Borshabad city",
+    "adda": "Go for adda",
+    "garage": "Garage",
+    "ledger": "Ledger",
+    "challenges": "Challenges",
+    "friends": "Friends"
+  },
+  "pause": {
+    "title": "Paused",
+    "resume": "Resume",
+    "reset": "Back to the road",
+    "restart": "Restart",
+    "quit": "Main menu",
+    "ring": "The Ring",
+    "abandon": "Abandon the race",
+    "retry": "Restart the race",
+    "garage": "Ustad's garage",
+    "ledger": "Ledger",
+    "addaOn": "Adda mode: on",
+    "addaOff": "Adda mode: off",
+    "replay": "Watch the replay",
+    "photo": "Photo mode"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageBn": "বাংলা",
+    "languageEn": "English",
+    "digits": "Digits",
+    "digitsBn": "বাংলা ০১২",
+    "digitsLatn": "Western 012",
+    "quality": "Graphics",
+    "qualityAuto": "Auto",
+    "qualityLow": "Low",
+    "qualityMedium": "Medium",
+    "qualityHigh": "High",
+    "qualityUltra": "Ultra",
+    "volume": "Sound",
+    "reduceMotion": "Reduce motion",
+    "on": "On",
+    "off": "Off",
+    "calendar": "Bengali calendar date",
+    "back": "Back",
+    "storageWarning": "Settings cannot be saved in this browser, so they will reset next time.",
+    "world": "Location",
+    "worldCity": "City",
+    "worldTest": "Test road",
+    "radioVoice": "Radio voice",
+    "time": "Time of day",
+    "timeAuto": "Let it run",
+    "timeDawn": "Dawn",
+    "timeDay": "Day",
+    "timeDusk": "Dusk",
+    "timeNight": "Night",
+    "weather": "Weather",
+    "weatherAuto": "Whatever comes",
+    "weatherClear": "Clear",
+    "weatherMonsoon": "Monsoon",
+    "weatherFog": "Fog",
+    "weatherBlackout": "Load-shedding",
+    "radio": "Radio",
+    "radioFull": "Music and DJ",
+    "radioMusic": "Music only",
+    "music": "Music",
+    "grain": "Film grain",
+    "groupOnline": "Online and ghosts",
+    "ghosts": "Best-run ghost",
+    "upload": "Send times to the online board",
+    "banter": "New lines written by AI",
+    "banterNote": "When on, some rival and RJ Tuntuni lines are written on the spot by Claude, an AI. It needs the internet and the site owner's key; without them the written lines play as usual. AI-written lines carry a small \"AI\" tag.",
+    "groupControls": "How you drive",
+    "touchSteer": "Phone steering",
+    "steerButtons": "Buttons",
+    "steerSlider": "Slider",
+    "steerTilt": "Tilt",
+    "tiltInvert": "Flip tilt direction",
+    "rumble": "Rumble",
+    "tiltDenied": "Tilt permission wasn't given, so steering is back on buttons.",
+    "groupAccess": "Easier for everyone",
+    "vision": "Colour vision",
+    "visionNormal": "Typical",
+    "visionProtan": "Weak red",
+    "visionDeutan": "Weak green",
+    "visionTritan": "Weak blue",
+    "subtitles": "Text size",
+    "subSmall": "Small",
+    "subNormal": "Medium",
+    "subLarge": "Large",
+    "subHuge": "Huge",
+    "subtitleBacking": "Dark plate behind text",
+    "contrast": "High contrast"
+  },
+  "controls": {
+    "title": "Controls",
+    "keyboard": "Keyboard",
+    "gamepad": "Gamepad",
+    "action": {
+      "throttle": "Throttle",
+      "brake": "Brake and reverse",
+      "steer": "Steering",
+      "handbrake": "Handbrake",
+      "nitro": "Nitro",
+      "horn": "Horn (tap or long)",
+      "camera": "Change camera",
+      "lookBack": "Look back",
+      "reset": "Back to road",
+      "pause": "Pause",
+      "devPanel": "Tuning panel",
+      "map": "Map and GPS",
+      "dom": "Dom (slow time)",
+      "ring": "The Ring board",
+      "enter": "Stop at a flag to enter a race",
+      "photo": "Photo mode",
+      "radio": "Change radio",
+      "left": "Steer left",
+      "right": "Steer right"
+    },
+    "key": {
+      "throttle": "W / ↑",
+      "brake": "S / ↓",
+      "steer": "A D / ← →",
+      "handbrake": "Space",
+      "nitro": "Shift",
+      "horn": "H",
+      "camera": "C",
+      "lookBack": "B",
+      "reset": "R",
+      "pause": "Esc / P",
+      "devPanel": "`",
+      "map": "M",
+      "dom": "E (hold)",
+      "ring": "G",
+      "enter": "Enter",
+      "photo": "O",
+      "radio": "Y",
+      "left": "A / ←",
+      "right": "D / →"
+    },
+    "pad": {
+      "throttle": "RT",
+      "brake": "LT",
+      "steer": "Left stick",
+      "handbrake": "A",
+      "nitro": "B",
+      "horn": "RB",
+      "camera": "Y",
+      "lookBack": "LB",
+      "reset": "X",
+      "pause": "Start",
+      "devPanel": "–",
+      "map": "Back",
+      "dom": "L3 / R3",
+      "ring": "D-Pad ↑",
+      "enter": "A",
+      "photo": "–",
+      "radio": "–",
+      "left": "Left stick",
+      "right": "Left stick"
+    },
+    "hint": "Handbrake lets the rear go, throttle holds the drift. Drifting refills nitro.",
+    "resetKeys": "Back to default keys",
+    "keysReset": "All keys are back to default.",
+    "pressKey": "Press a key…",
+    "pressKeyFor": "Press a new key for {action} (Escape cancels).",
+    "bindLabel": "{action}: {key}, press to change",
+    "noKey": "none",
+    "captureCancelled": "Change cancelled.",
+    "keyFixed": "{key} can't be moved; it is kept for pause and menus.",
+    "keySet": "{action} is now on {key}."
+  },
+  "touch": {
+    "left": "Left",
+    "right": "Right",
+    "gas": "Gas",
+    "brake": "Brake",
+    "handbrake": "Handbrake",
+    "nitro": "Nitro",
+    "pause": "Pause",
+    "horn": "Horn",
+    "map": "Map",
+    "dom": "Dom",
+    "ring": "Ring",
+    "slider": "Steering slider",
+    "straighten": "Centre"
+  },
+  "hud": {
+    "speedUnit": "km/h",
+    "gear": "Gear",
+    "reverseGear": "R",
+    "nitro": "Nitro",
+    "lap": "Lap {lap}",
+    "time": "Time",
+    "best": "Best",
+    "noTime": "– –",
+    "invalidLap": "This lap will not count",
+    "drift": "Drift",
+    "points": {
+      "one": "{count} point",
+      "other": "{count} points"
+    },
+    "multiplier": "×{value}",
+    "lapDone": "{ordinal} lap done: {time}",
+    "newBest": "New best time!",
+    "wrongWay": "Wrong way",
+    "carReset": "Back on the road",
+    "money": "Tk {cash}",
+    "level": "Lv {level}",
+    "condition": "Car condition {condition}%"
+  },
+  "drift": {
+    "tier0": "Drift!",
+    "tier1": "Nice one!",
+    "tier2": "Ostad, what a slide!",
+    "tier3": "Totally reckless!"
+  },
+  "dev": {
+    "title": "Tuning panel",
+    "copy": "Copy JSON",
+    "copied": "Copied",
+    "reset": "Reset",
+    "close": "Close"
+  },
+  "tips": [
+    "A bad dancer blames the crooked yard.",
+    "Loud thunder rarely brings much rain.",
+    "Too much cleverness ends in a noose.",
+    "Patience bears sweet fruit.",
+    "Greed ruined the weaver.",
+    "Wisdom arrives after the thief has run.",
+    "Drop by drop, a sea is made.",
+    "Patience grows the sweetest fruit.",
+    "No tea, no conversation.",
+    "Who endures, remains.",
+    "Brake late on a wet road and the car stops listening.",
+    "Go fast through water and the tyres float, and the steering goes light.",
+    "The police cannot see far in fog either.",
+    "In load-shedding, a dark lane is your best friend."
+  ],
+  "calendar": {
+    "months": [
+      "Boishakh",
+      "Joishtho",
+      "Asharh",
+      "Srabon",
+      "Bhadro",
+      "Ashwin",
+      "Kartik",
+      "Ogrohayon",
+      "Poush",
+      "Magh",
+      "Falgun",
+      "Choitro"
+    ],
+    "format": "{day} {month} {year} BS"
+  },
+  "sign": {
+    "track": "Beporowa Test Road",
+    "start": "Start",
+    "garage": "Ostad Mechanic Garage",
+    "tea": "Tea Stall",
+    "kacchi": "Hungry Kacchi House",
+    "launch": "Kajolganga Launch Service",
+    "coaching": "Gyan Biggyan Coaching",
+    "hotel": "Chandrabindu Hotel",
+    "motors": "Shonkhochil Motors",
+    "radio": "Radio Jhor",
+    "sweets": "Mishtimukh Sweets",
+    "turn": "Bend ahead, take a breath",
+    "plaza": "Drift Yard",
+    "slogan": "Mother's Blessing",
+    "plate": "Borshabad Metro Ka 11-2345",
+    "closed": "Road closed",
+    "toll": "Uralganj Toll Plaza",
+    "film": "A Mother's Tears",
+    "busName": "Borshabad Transport",
+    "shop": {
+      "store": "Mother's Blessing Store",
+      "tailor": "Brothers Tailors",
+      "tea": "Uncle's Tea House",
+      "spice": "Rahmat Spice Store",
+      "saree": "Swarnalata Saree House",
+      "biryani": "Son-in-law's Welcome Biryani",
+      "paan": "Kolim Mia's Paan",
+      "library": "Guiding Light Library",
+      "hardware": "Puran Tola Hardware",
+      "electric": "Sparkle Electric",
+      "jilapi": "Lal Mia's Jilapi",
+      "pharmacy": "Shanti Pharmacy",
+      "kantha": "Nakshi Kantha House",
+      "mobile": "Tara Mobile Servicing",
+      "salon": "Phulkoli Salon",
+      "rosgolla": "Rosgolla Corner",
+      "sweets": "Grandfather's Sweets",
+      "studio": "Bashi Studio",
+      "market": "Fresh Market",
+      "fabric": "Rainbow Fabric Shop"
+    },
+    "parking": "Parking",
+    "policeUnit": "Special Chase Unit",
+    "policeShort": "Chase",
+    "ring": "The Ring",
+    "finish": "Finish",
+    "dock": "Kajal Ghat"
+  },
+  "city": {
+    "hint": "M map. G Ring board. H is the city's language. Hold E for Dom.",
+    "nearMiss": "So close!",
+    "squeeze": "Squeeze through!",
+    "district": {
+      "puranTola": "Puran Tola",
+      "uralganj": "Uralganj",
+      "kajalGhat": "Kajal Ghat"
+    },
+    "poi": {
+      "monument": "Moyurponkhi Circle",
+      "bazaar": "Puran Tola Bazaar",
+      "teaLane": "Tea Lane",
+      "oldLanes": "Old Lanes",
+      "flyoverWest": "Flyover ramp, west",
+      "flyoverEast": "Flyover ramp, east",
+      "toll": "Toll Plaza",
+      "centre": "Uralganj Crossing",
+      "dock": "Kajal Ghat Dock",
+      "garage": "Ustad's garage"
+    },
+    "gps": {
+      "arrived": "You have arrived!",
+      "toward": "{name}: {remaining} m to go",
+      "turn": {
+        "straight": "Straight for {metres} m",
+        "left": "Left in {metres} m",
+        "right": "Right in {metres} m",
+        "uturn": "Turn back in {metres} m",
+        "arrive": "Destination in {metres} m",
+        "turnAround": "Turn around"
+      }
+    },
+    "map": {
+      "title": "Map of Borshabad",
+      "hint": "Where to? Red roads are jammed, yellow is the flyover.",
+      "clear": "Clear route",
+      "close": "Back to the car",
+      "legendGarage": "Car park: the best hiding spot",
+      "legendTea": "Tea stall: vanish in the crowd",
+      "legendTrap": "Chaos trap: clip it",
+      "legendFlag": "Race flag"
+    },
+    "horn": {
+      "tap": "Tap: move aside",
+      "long": "Long horn: clear the way",
+      "double": "Two taps: what now?",
+      "nobody": "Nobody heard",
+      "triple": "Three taps: the police are confused!",
+      "tripleNone": "Three taps: no effect right now",
+      "provoke": "Two taps: the rival is furious!"
+    },
+    "bubble": {
+      "yield": [
+        "Go on, brother!",
+        "Moving, moving!",
+        "Easy, brother!",
+        "Less horn, please!"
+      ],
+      "scatter": [
+        "Oh my!",
+        "Careful!",
+        "I'm off!",
+        "Watch it!"
+      ],
+      "honkBack": [
+        "What now?",
+        "Hey, you!",
+        "Whoa, whoa!",
+        "Is the jam my fault?"
+      ],
+      "hit": [
+        "There it goes!",
+        "Oh no!",
+        "Watch where you drive!",
+        "My vehicle!"
+      ]
+    },
+    "tutorial": {
+      "speaker": "Ostad",
+      "skip": "Skip",
+      "tap": "In this city the horn is a language. Tap H once at someone ahead and they make way.",
+      "long": "Nice! Now get near people and hold H. Everyone clears out.",
+      "double": "Tap twice and hear what everybody says back!",
+      "tip": "Now find a jam. Squeeze between two vehicles for a bonus and nitro.",
+      "pursuit": "The police are on you! Get out of sight. Slip into an alley, a tea stall or a car park and slow down, and they will lose you. Clip the scaffolds and drums by the road to stop them. Three horn taps confuse them, and Dom slows time. Stop moving and you are caught!"
+    }
+  },
+  "police": {
+    "hud": {
+      "pursuit": "Pursuit on",
+      "evading": "They are searching",
+      "arrest": "Keep moving, they have you!",
+      "hide": {
+        "garage": "Hiding in the car park",
+        "tea": "In the tea stall crowd",
+        "alley": "Deep in the alley",
+        "flyover": "Under the flyover",
+        "none": "They are searching"
+      },
+      "escaped": "Vanished! +{points}",
+      "puncture": "Tyre punctured!",
+      "trap": "Chaos trap!",
+      "trapStunned": {
+        "one": "Chaos trap! {count} unit stuck",
+        "other": "Chaos trap! {count} units stuck"
+      },
+      "dom": "Dom"
+    },
+    "busted": {
+      "title": "Busted!",
+      "subtitle": "You pay the fine and walk away, for tonight.",
+      "heat": "Heat",
+      "stars": "{stars} stars",
+      "time": "Pursuit time",
+      "seconds": "{seconds} seconds",
+      "fine": "Fine",
+      "fineAmount": "Tk {fine}",
+      "continue": "Back on the road"
+    },
+    "radio": {
+      "from": "Control room",
+      "fromChief": "Chief Rezwan Talukdar",
+      "pursuitStart": [
+        "Control, in pursuit of the red car. {place} area.",
+        "Suspect car moving through {place}, following now.",
+        "Red hatchback, driving like a madman. Going after it!"
+      ],
+      "heatUp": [
+        "Send more units!",
+        "It will not stop, we need backup!",
+        "This is no ordinary driver. All units alert!",
+        "Speed is rising, and so is ours."
+      ],
+      "chief": [
+        "Chief here. I want that car tonight.",
+        "Chief here. One more mistake and you are all transferred.",
+        "All units, this is the Chief. It does not leave the city."
+      ],
+      "lost": [
+        "We lost the car!",
+        "Does anyone have eyes on it?",
+        "Out of sight. Search the area."
+      ],
+      "found": [
+        "Got it! I see it again!",
+        "There it is! Get it!"
+      ],
+      "boxIn": [
+        "Surround it from all sides!",
+        "One in front, two on the sides. No way out."
+      ],
+      "pit": [
+        "Nudging it from behind!",
+        "Going for the rear corner, stand clear."
+      ],
+      "roadblock": [
+        "Set up a barricade ahead.",
+        "Block the road, the car is coming!"
+      ],
+      "spike": [
+        "Spikes are down.",
+        "Spikes on the road, those tyres are finished."
+      ],
+      "drone": [
+        "Launch the drone, keep eyes on it.",
+        "Drone is up. Not much battery."
+      ],
+      "heli": [
+        "Watching from the sky, where will you run?",
+        "Helicopter on scene. Light is on."
+      ],
+      "trap": [
+        "A scaffold just came down on the road!",
+        "Unit is stuck!",
+        "Drums rolling everywhere, we cannot get through!"
+      ],
+      "horn": [
+        "Who is honking so much? I cannot hear a thing!",
+        "Who can hear a radio through all these horns!"
+      ],
+      "escape": [
+        "Search called off. The car is gone.",
+        "Everyone come back. It got away tonight."
+      ],
+      "bust": [
+        "Got it! Stop the car.",
+        "Engine off, show your hands."
+      ]
+    }
+  },
+  "rival": {
+    "mithu": {
+      "name": "Mithu Mia",
+      "nick": "The Lane Man",
+      "car": "Shalik",
+      "style": "Knows the lanes like his own palm, and dives into any gap",
+      "bio": "A Puran Tola boy, seven generations in the same lanes. He needs no map and finds the road by smell.",
+      "intro": [
+        "Well now, a new boy! Come to race in Puran Tola, have you?",
+        "These lanes are the palm of my hand, friend. Call me when you get lost."
+      ],
+      "win": [
+        "Did I not say? The lanes are mine, friend.",
+        "Next time, try looking at a map or something."
+      ],
+      "lose": [
+        "Oh, come on! You have turned into a lane boy yourself!",
+        "Fair enough. Tea is on me today."
+      ],
+      "passed": [
+        "Where are you off to, where!",
+        "Hey, how did I miss that gap!"
+      ],
+      "passing": [
+        "Move over, friend, make room!",
+        "This lane is mine, brother."
+      ],
+      "bump": [
+        "Easy, friend, this car is bought on credit!",
+        "Oi! You took the paint off!"
+      ],
+      "provoked": [
+        "What are you showing off with that horn? Come on, then!",
+        "You teach me the horn? I am the master of the horn!"
+      ],
+      "finishFirst": [
+        "I am there already, friend. Take your time."
+      ]
+    },
+    "sadia": {
+      "name": "Sadia Rahman",
+      "nick": "The Thread",
+      "car": "Phoring",
+      "style": "A clean line, and hardly a mistake",
+      "bio": "She used to mend machines in the garment zone. Her lines run straight as a thread, hence the name. She takes no corner without working it out first.",
+      "intro": [
+        "I have heard of you. Plenty of speed, no sums.",
+        "I make no mistakes. You will, and I will simply wait."
+      ],
+      "win": [
+        "As I said, the sums are what matter.",
+        "Write down where you should have braked."
+      ],
+      "lose": [
+        "Your sums were better than mine today. I accept that.",
+        "A good line. We will do this again."
+      ],
+      "passed": [
+        "You have nerve. Do you have sums?",
+        "All right, we shall see at the next corner."
+      ],
+      "passing": [
+        "That is how the corner is taken.",
+        "Watch and learn."
+      ],
+      "bump": [
+        "Drive the car, do not shove it.",
+        "This is a race, not wrestling."
+      ],
+      "provoked": [
+        "You cannot win a race with a horn.",
+        "Louder. I am not listening."
+      ],
+      "finishFirst": [
+        "I am done. Have a look at the clock."
+      ]
+    },
+    "badal": {
+      "name": "Badal Shikdar",
+      "nick": "The Monsoon",
+      "car": "Ilish",
+      "style": "Slips along wet roads like a fish, and never lets go of the grip",
+      "bio": "From Khulna, he grew up driving through flood water. They say he gets gloomy when it does not rain.",
+      "intro": [
+        "Rain or no rain, I am driving. Where are you off to?",
+        "This road never dries, brother. Do not blame me if you slide."
+      ],
+      "win": [
+        "A river fish wins in the river, brother.",
+        "Do not be sad, come back next monsoon."
+      ],
+      "lose": [
+        "Well! You have turned into a river fish too.",
+        "I lost today. But we will meet when it rains."
+      ],
+      "passed": [
+        "Oh brother, where are you off to so fast?",
+        "All right, go ahead, you will slide soon enough."
+      ],
+      "passing": [
+        "Move aside, the fish is coming through!",
+        "Stay back, you will get splashed."
+      ],
+      "bump": [
+        "Careful, brother, will you sink my boat!",
+        "Easy! This is no ferry landing."
+      ],
+      "provoked": [
+        "Why the horn? Rain comes without being called.",
+        "Go on, frogs call too."
+      ],
+      "finishFirst": [
+        "I have reached the landing, brother."
+      ]
+    },
+    "jisan": {
+      "name": "Jisan Ali",
+      "nick": "The Shove",
+      "car": "Chitol",
+      "style": "Most polite in his words, and rams you on the road",
+      "bio": "From the mango orchards of Rajshahi. A very humble man. He apologises after shoving you, then shoves you again.",
+      "intro": [
+        "Are you well, brother? I am apologising in advance.",
+        "Please do not mind a little mark on your car. It is a habit of mine."
+      ],
+      "win": [
+        "You drove very well, brother. I am sorry, I won.",
+        "Do not mind it, I will have your paint fixed."
+      ],
+      "lose": [
+        "You drive well, brother. Forgive me for all the shoving.",
+        "I give up. Do come and eat mangoes."
+      ],
+      "passed": [
+        "Well done, brother, go on. I am coming.",
+        "Just a moment, brother, I will be right there."
+      ],
+      "passing": [
+        "Forgive me, brother, I need a little room.",
+        "Sorry, brother, I am going through."
+      ],
+      "bump": [
+        "Forgive me, brother! My hand slipped.",
+        "I am sorry. If it happens again I will be sorry again."
+      ],
+      "provoked": [
+        "You honked, brother? This time I will not apologise.",
+        "Do not be angry, brother. I am a polite man, but the car is not."
+      ],
+      "finishFirst": [
+        "I got here first, brother. Forgive me."
+      ]
+    },
+    "papri": {
+      "name": "Papri Dutta",
+      "nick": "The Slip",
+      "car": "Machranga",
+      "style": "Takes corners sideways, and draws the road in smoke",
+      "bio": "She went to dance school, and now she makes cars dance. Her speed through a corner is close to impossible to match.",
+      "intro": [
+        "Anyone can drive a straight road. The real game is in the corners.",
+        "Burn some tyre and come. I will write my name in the smoke."
+      ],
+      "win": [
+        "Lost in the smoke, were you?",
+        "Learn to move your feet first, then come back."
+      ],
+      "lose": [
+        "Well! You made that corner dance today.",
+        "I have to admit, there is music in your hands."
+      ],
+      "passed": [
+        "There is nothing in winning on a straight. Let the corner come.",
+        "It is coming, it is coming, the next corner is coming."
+      ],
+      "passing": [
+        "Went past you sideways. Did you see?",
+        "Did the smoke get up your nose?"
+      ],
+      "bump": [
+        "Keep the rhythm, will you!",
+        "Bump a dancer and the dance is over."
+      ],
+      "provoked": [
+        "Even a horn has a rhythm. Yours is out of tune.",
+        "Go on. I will pass you in time to it."
+      ],
+      "finishFirst": [
+        "My dance is done."
+      ]
+    },
+    "tanvir": {
+      "name": "Tanvir Ahsan",
+      "nick": "The Glass",
+      "car": "Shonkhochil",
+      "style": "A monster on the straights, and a wreck in the lanes",
+      "bio": "A boy from the glass towers. Expensive car, expensive talk. He is scared of the lanes, and will not say so.",
+      "intro": [
+        "Come from Puran Tola, have you? The roads are straight here, brother.",
+        "This flyover is my driveway. Mind the dust."
+      ],
+      "win": [
+        "Speed is something you can buy, brother.",
+        "Lane tricks do not work up on the flyover."
+      ],
+      "lose": [
+        "Impossible. Something must be wrong with the engine.",
+        "All right. You drive well. Do not tell anyone."
+      ],
+      "passed": [
+        "This cannot be happening!",
+        "Do you know what my car costs?"
+      ],
+      "passing": [
+        "Eat dust.",
+        "A straight road, brother. Just a straight road."
+      ],
+      "bump": [
+        "See that paint? That paint is imported!",
+        "I will have to call the insurance man."
+      ],
+      "provoked": [
+        "A horn! How rude!",
+        "That sort of thing is not done here, brother."
+      ],
+      "finishFirst": [
+        "I have arrived. I am ordering you a coffee."
+      ]
+    },
+    "rubel": {
+      "name": "Rubel Chowdhury",
+      "nick": "The Crane",
+      "car": "Bajpakhi",
+      "style": "Stands in front of you like a wall, and gives no room",
+      "bio": "He used to run a crane at Kajal Ghat. A port man, with a big heart. On the road, though, getting past him is hard work.",
+      "intro": [
+        "So you have come to Kajal Ghat? Good of you.",
+        "While I am in front, you will find no way past."
+      ],
+      "win": [
+        "A crane does not move, brother. Remember that.",
+        "Have a drink of river water and come again."
+      ],
+      "lose": [
+        "Oh! You went right over the crane!",
+        "You drive well. I accept it."
+      ],
+      "passed": [
+        "Where are you trying to go?",
+        "All right, I will see you up ahead."
+      ],
+      "passing": [
+        "Move aside, cargo coming through!",
+        "There is no room, brother."
+      ],
+      "bump": [
+        "My car is a crane, and yours is a toy.",
+        "Pushing will get you nowhere."
+      ],
+      "provoked": [
+        "A horn does not move a crane.",
+        "Go on, go on. The port is louder than that."
+      ],
+      "finishFirst": [
+        "Cargo unloaded. You come along now."
+      ]
+    },
+    "nila": {
+      "name": "Nila Purkayastha",
+      "nick": "The Fog",
+      "car": "Custom Shonkhochil",
+      "style": "Drives with lights off, and melts into the traffic",
+      "bio": "She grew up on a Sylhet tea estate, and learned to drive without lights in the winter fog. At night nobody sees her, they only feel her go by.",
+      "intro": [
+        "You will not see me. Nobody does.",
+        "I need no lights. The road knows me."
+      ],
+      "win": [
+        "What happened? I was gone long ago.",
+        "Fog cannot be caught, can it now?"
+      ],
+      "lose": [
+        "You drove very well. So you saw me after all.",
+        "You caught me tonight. Not every night is so easy."
+      ],
+      "passed": [
+        "Oh, have you caught me, then?",
+        "Go on ahead, I will watch from behind."
+      ],
+      "passing": [
+        "What, did you not see me?",
+        "There I go."
+      ],
+      "bump": [
+        "Watch how you drive.",
+        "What kind of thing was that to do?"
+      ],
+      "provoked": [
+        "A horn does not lift the fog.",
+        "Honk away, I am not even here."
+      ],
+      "finishFirst": [
+        "I am here, and you are still on the road."
+      ]
+    },
+    "shaon": {
+      "name": "Shaon Molla",
+      "nick": "The Meter",
+      "car": "Custom Bagha",
+      "style": "Lazy at the start, and on fire on the last lap",
+      "bio": "He drove a three-wheeler in Puran Tola. He is just like a fare meter: slow at first, and then it only goes up. He says a race is paid for on the last lap.",
+      "intro": [
+        "The meter has not dropped yet, brother. Wait for the last lap.",
+        "Go ahead at first, no problem. I collect at the end."
+      ],
+      "win": [
+        "Pay what the meter says, brother.",
+        "Did I not say? The real fare comes on the last lap."
+      ],
+      "lose": [
+        "Well done, brother! The meter is yours today.",
+        "No charge. You are a true student of your Ostad."
+      ],
+      "passed": [
+        "Go on, go on. The meter is running.",
+        "You go first, we settle up later."
+      ],
+      "passing": [
+        "The meter is climbing, brother!",
+        "Time to pay the fare!"
+      ],
+      "bump": [
+        "Oi, that bump goes on the fare too.",
+        "Watch where you are driving!"
+      ],
+      "provoked": [
+        "A horn means double fare.",
+        "I have just set the meter spinning, brother."
+      ],
+      "finishFirst": [
+        "Destination reached. Have the fare ready."
+      ]
+    },
+    "jahan": {
+      "name": "Jahan",
+      "nick": "Kalbaishakhi",
+      "car": "Bagha Prototype",
+      "style": "Remembers your habits, and comes at you differently each time",
+      "bio": "Number one in the Ring. Nobody knows where Jahan lives. Once there was a wrench in that hand, in a certain garage, and nobody tells that story.",
+      "intro": [
+        "Did Ostad send you? You still smell of that garage.",
+        "I have seen all your races. Which side you pass on, when you hit the nitro. I remember it all."
+      ],
+      "win": [
+        "You cannot race a storm. Tell Ostad I am well.",
+        "Come again. I will learn a little more from you."
+      ],
+      "lose": [
+        "So Ostad taught you properly. Just as Ostad taught me.",
+        "Go. The garage debt is paid. Tell Ostad I will come for tea one day."
+      ],
+      "passed": [
+        "I have not seen that move before. I will remember it.",
+        "Good. But I know this side."
+      ],
+      "passing": [
+        "I know this habit of yours.",
+        "The wind drops before a storm comes."
+      ],
+      "bump": [
+        "I will remember that too.",
+        "Do not get angry. You make mistakes when you are angry."
+      ],
+      "provoked": [
+        "A horn? Did Ostad teach you that too?",
+        "There is no use shouting at a storm."
+      ],
+      "finishFirst": [
+        "I am there. You stay on the road."
+      ],
+      "leg1": [
+        "The police are coming. For you, not for me."
+      ],
+      "leg2": [
+        "The last stretch. Can you feel the river air?"
+      ]
+    }
+  },
+  "race": {
+    "event": {
+      "goliCircuit": {
+        "name": "Lane Circuit",
+        "brief": "Three laps of the Puran Tola lanes. Know the gaps and you win."
+      },
+      "mishtiDelivery": {
+        "name": "Pots of Sweets",
+        "brief": "Wedding sweets to four addresses. Crash and the pots break, and you must slow down to hand them over."
+      },
+      "bazaarMaze": {
+        "name": "Bazaar Maze",
+        "brief": "The gates are deep in the lanes. Nobody will tell you the way. Finish before Mithu."
+      },
+      "avenueTrial": {
+        "name": "Uralganj Time Trial",
+        "brief": "One lap, just you and the clock."
+      },
+      "sutoSprint": {
+        "name": "The Straight Thread",
+        "brief": "From one end of Uralganj to the other. Sadia makes no mistakes, so neither can you."
+      },
+      "cityRush": {
+        "name": "Catch the Gates",
+        "brief": "Not much time. Every gate adds more."
+      },
+      "barshaCircuit": {
+        "name": "Monsoon Circuit",
+        "brief": "Three laps around the monument with Badal."
+      },
+      "firstTakedown": {
+        "name": "First Hunt",
+        "brief": "Three cars are running from what they owe the garage. Knock them to a stop. Nobody gets hurt, only the engines stop."
+      },
+      "dhakkaCircuit": {
+        "name": "Road of Shoves",
+        "brief": "Three laps in north Uralganj. Jisan will apologise, then shove you."
+      },
+      "driftBlock": {
+        "name": "Block of Smoke",
+        "brief": "Drift as much as you can before time runs out."
+      },
+      "slipBattle": {
+        "name": "Papri's Dance",
+        "brief": "Score more drift points than Papri."
+      },
+      "kachDrag": {
+        "name": "The Glass Straight",
+        "brief": "One straight road, two cars. Shift at the right moment."
+      },
+      "flyoverLoop": {
+        "name": "Flyover Loop",
+        "brief": "Two laps of the whole flyover. Tanvir is a monster on the straights, so catch him in the corners."
+      },
+      "ghatRun": {
+        "name": "Run to the Ghat",
+        "brief": "Through the lanes to the edge of Kajal Ghat."
+      },
+      "riverDock": {
+        "name": "River Dock",
+        "brief": "Three laps between the containers and under the cranes. Rubel will not give way."
+      },
+      "nightDelivery": {
+        "name": "Night Delivery",
+        "brief": "Six addresses across the whole city, the last one at the port."
+      },
+      "kuashaSprint": {
+        "name": "After the Fog",
+        "brief": "One long run through heavy traffic. Nila drives without lights, so keep your eyes open."
+      },
+      "bigTakedown": {
+        "name": "Big Hunt",
+        "brief": "Five cars this time, and they run a little faster."
+      },
+      "meterCircuit": {
+        "name": "Last Lap Fare",
+        "brief": "Three laps. Shaon saves the real game for the last one."
+      },
+      "allCityRush": {
+        "name": "The Whole City",
+        "brief": "Gates across two districts, and the clock spares nobody."
+      },
+      "kalbaishakhi": {
+        "name": "Kalbaishakhi",
+        "brief": "From the flyover through the lanes to the river port. The police join halfway. Get caught and it is over."
+      },
+      "borshaRush": {
+        "name": "Rain Rush: Bazaar Water",
+        "brief": "The sky has opened and the bazaar road is under water. Cars float, and you cannot see the holes."
+      },
+      "jolpothRush": {
+        "name": "Rain Rush: The Waterways",
+        "brief": "The whole south of the city is flooded. The clock is running, so take it gate by gate."
+      }
+    },
+    "mode": {
+      "circuit": "Circuit",
+      "sprint": "Sprint",
+      "drift": "Drift",
+      "drag": "Drag",
+      "timeTrial": "Time Trial",
+      "takedown": "Takedown",
+      "delivery": "Delivery",
+      "checkpointRush": "Checkpoint Rush",
+      "riverDock": "River Dock",
+      "flyoverLoop": "Flyover Loop",
+      "bazaarMaze": "Bazaar Maze",
+      "boss": "Boss Race"
+    },
+    "rules": {
+      "circuit": "A few laps. Finish first.",
+      "sprint": "From one end to the other. Get there first.",
+      "drift": "Score drift points before time runs out.",
+      "drag": "Hold the gas. When it says shift, change gear with the handbrake button.",
+      "timeTrial": "The clock is your only opponent.",
+      "takedown": "Hit them hard until every car stops. A hit from the side does more.",
+      "delivery": "Slow down at each address to hand over. Crashes break the cargo.",
+      "checkpointRush": "Every gate adds time. When the clock hits zero, it is over.",
+      "riverDock": "Laps of the port. Finish first.",
+      "flyoverLoop": "Laps of the flyover. Finish first.",
+      "bazaarMaze": "One gate at a time. Find your own way.",
+      "boss": "Flyover, lanes, river. Finish first, and do not get caught."
+    },
+    "hud": {
+      "go": "Go!",
+      "of": "/ {total}",
+      "lap": "Lap {lap}/{laps}",
+      "leg": "Leg {leg}/{legs}",
+      "target": "Target {time}",
+      "gates": "Gate {done}/{total}",
+      "cargo": "Cargo {cargo}%",
+      "targets": "Left {left}/{total}",
+      "score": "Score {score}",
+      "rivalScore": "{name}: {score}",
+      "targetScore": "Target {score}",
+      "gapAhead": "{name} ahead {seconds} s",
+      "gapBehind": "{name} behind {seconds} s",
+      "you": "You",
+      "wrongWay": "Wrong way!",
+      "offRoute": "Back to the road!",
+      "shift": "Shift!",
+      "slowDown": "Slow down and hand over!",
+      "metres": "{metres} m",
+      "skip": "Skip",
+      "perfectLaunch": "Perfect start!",
+      "earlyLaunch": "Too early!",
+      "perfectShift": "Perfect shift!",
+      "lastLap": "Last lap!",
+      "lapDone": "Lap {lap}: {time}",
+      "legStart": "Leg {leg}",
+      "targetDown": "Stopped it!",
+      "allDown": "All of them!",
+      "cargoHit": "A pot cracked!",
+      "enter": "{name}: press Enter, or tap here"
+    },
+    "result": {
+      "won": "You won!",
+      "lost": "You lost",
+      "busted": "Busted!",
+      "outOfTime": "Out of time!",
+      "cargoGone": "All the pots are broken!",
+      "dnf": "Everyone else got there",
+      "retry": "Again",
+      "board": "Ring board",
+      "city": "Back to the city",
+      "place": "Place",
+      "time": "Time",
+      "score": "Score",
+      "timeLeft": "Time left",
+      "cargo": "Cargo",
+      "points": "Reputation",
+      "stillRacing": "Still racing",
+      "rankUp": "You are now {rank} in the Ring!",
+      "champion": "You are number one in the Ring!",
+      "cash": "Cash",
+      "level": "New level",
+      "replay": "Replay"
+    },
+    "crew": [
+      "Roni",
+      "Tuhin",
+      "Sajib",
+      "Maruf",
+      "Arif",
+      "Nayeem",
+      "Shimul",
+      "Tonmoy",
+      "Rakib",
+      "Limon",
+      "Sohel",
+      "Biplob"
+    ],
+    "medal": {
+      "1": "Bronze",
+      "2": "Silver",
+      "3": "Gold"
+    }
+  },
+  "ring": {
+    "title": "The Ring",
+    "unranked": "No rank yet",
+    "rank": "You are {rank}",
+    "points": "{points} reputation",
+    "close": "Back to the city",
+    "reset": "Erase and start over",
+    "resetConfirm": "Sure? Press again",
+    "freePlayOn": "All races open: on",
+    "freePlayOff": "All races open: off",
+    "hidden": "???",
+    "hiddenBio": "Beat the one before, then you will know.",
+    "beaten": "Beaten",
+    "car": "Car",
+    "style": "Style",
+    "start": "Start",
+    "done": "Done",
+    "best": "Best {time}",
+    "lockedTier": "Opens when you beat the rival before.",
+    "lockedWarmup": "First finish another race in this tier.",
+    "policeBlock": "The police are on you. Shake them off first.",
+    "phoneFrom": "Ostad",
+    "phoneWelcome": "That garage debt will not pay itself. Sign up for the Ring. Press G for the board, and when you see a flag in the city, stop beside it.",
+    "phoneNext": "Well done! Now it is the turn of {name} \"{nick}\". Finish a race in this tier first, then call them out.",
+    "phoneChampion": "I hear you beat Jahan. Jahan once held a wrench in my own garage. I am making tea. Come over, there is a story to tell.",
+    "clues": "Heard at the tea stall"
+  },
+  "car": {
+    "bulbuli": {
+      "name": "Bulbuli",
+      "blurb": "Small, bright and stubborn. The first car Ustad ever built."
+    },
+    "shalik": {
+      "name": "Shalik",
+      "blurb": "Turns in your palm. The quickest thing around an alley corner."
+    },
+    "phoring": {
+      "name": "Phoring",
+      "blurb": "Light nose, sharp lines. It leaps on a straight road."
+    },
+    "ilish": {
+      "name": "Ilish",
+      "blurb": "Looks like a family car. There is a silver temper inside."
+    },
+    "machranga": {
+      "name": "Machranga",
+      "blurb": "One dive and the corner is gone. The tidiest of the road class."
+    },
+    "chitol": {
+      "name": "Chitol",
+      "blurb": "A working pickup, equally good at taking a knock and giving one."
+    },
+    "bajpakhi": {
+      "name": "Bajpakhi",
+      "blurb": "Wide shoulders and a chest full of pull. King of the straight."
+    },
+    "shonkhochil": {
+      "name": "Shonkhochil",
+      "blurb": "Long nose, cool head. Nothing matches it up on the flyover."
+    },
+    "bagha": {
+      "name": "Bagha",
+      "blurb": "Hard to call this a road car. It takes real hands to hold."
+    },
+    "rocket": {
+      "name": "Rickshaw Rocket",
+      "blurb": "Ustad's madness, sold for one taka. No pedals, and two tubes behind."
+    }
+  },
+  "garage": {
+    "title": "Ustad's garage",
+    "money": "Tk {cash} · Level {level}",
+    "exit": "Back on the road",
+    "policeBlock": "Not with the police on your tail.",
+    "tab": {
+      "cars": "Cars",
+      "parts": "Parts",
+      "paint": "Rickshaw art"
+    },
+    "class": {
+      "goli": "Alley class",
+      "sarak": "Road class",
+      "ural": "Flyover class",
+      "secret": "Secret"
+    },
+    "secretName": "A car under a tarpaulin",
+    "secretBlurb": "Ustad will not say what is under there. Cross the last line of the Ring and the lock opens.",
+    "driving": "Driving this one",
+    "owned": "Yours",
+    "price": "Tk {cash}",
+    "drive": "Drive this one",
+    "buy": "Buy, Tk {cash}",
+    "needRank": "Needs rank {rank}",
+    "needChampion": "Yours when you win the Ring",
+    "needCash": "Tk {cash} short",
+    "repair": "Repair ({condition}%), Tk {cash}",
+    "rating": "Rating {rating}",
+    "stat": {
+      "power": "Power",
+      "topSpeed": "Top speed",
+      "grip": "Grip",
+      "brake": "Brakes",
+      "nitro": "Nitro",
+      "steer": "Steering"
+    },
+    "partsFor": "Parts for {car}",
+    "part": {
+      "engine": {
+        "name": "Engine",
+        "desc": "More pull, at every speed."
+      },
+      "turbo": {
+        "name": "Turbo",
+        "desc": "Breathes at the top end, for more top speed."
+      },
+      "tyres": {
+        "name": "Tyres",
+        "desc": "Holds on through corners and wet road."
+      },
+      "suspension": {
+        "name": "Suspension",
+        "desc": "The nose answers sooner, and the body rolls less."
+      },
+      "brakes": {
+        "name": "Brakes",
+        "desc": "Brake later, and still make the corner."
+      },
+      "nitro": {
+        "name": "Nitro",
+        "desc": "Nitro pushes harder."
+      }
+    },
+    "partMax": "Maxed",
+    "partLevel": "Needs level {level}",
+    "partBuy": "Fit it, Tk {cash}",
+    "paintFor": "Paint for {car}",
+    "paint": {
+      "base": "Main colour",
+      "accent": "Lower stripe",
+      "rocker": "Skirt",
+      "roof": "Roof",
+      "rim": "Rims",
+      "glow": "Underglow",
+      "band": "Pattern band",
+      "art": "Door picture",
+      "slogan": "Words on the tail",
+      "sloganHint": "Mother's blessing",
+      "reset": "Back to the old paint"
+    },
+    "band": {
+      "flowers": "Flowers",
+      "chain": "Chain",
+      "waves": "Waves",
+      "none": "None"
+    },
+    "art": {
+      "none": "None",
+      "flowers": "Flowers",
+      "boat": "Boat",
+      "cinema": "Cinema",
+      "tiger": "Tiger",
+      "bird": "Doyel"
+    },
+    "sloganRude": "That cannot go on a car. Ustad would be furious.",
+    "sloganLong": "That will not fit. {max} letters at most.",
+    "sloganChoices": [
+      "Mother's blessing",
+      "In God we trust",
+      "Keep your distance",
+      "Go slow",
+      "See you again",
+      "King of the road"
+    ],
+    "dyno": {
+      "label": "Graph of engine power against speed",
+      "stock": "Stock",
+      "now": "Now",
+      "next": "Next",
+      "axes": "Horsepower, km/h",
+      "at": "At {kmh} km/h",
+      "hp": "{hp} hp",
+      "table": "See the numbers",
+      "speed": "Speed"
+    }
+  },
+  "ach": {
+    "firstWin": {
+      "title": "If at first you fail, try a hundred times",
+      "desc": "Win your first race"
+    },
+    "tenWins": {
+      "title": "Ten men's sticks, one man's load",
+      "desc": "Win ten races"
+    },
+    "fiveGolds": {
+      "title": "Not all that glitters is gold",
+      "desc": "Take five gold medals"
+    },
+    "threeRivals": {
+      "title": "A shove teaches manners",
+      "desc": "Beat three rivals"
+    },
+    "allRivals": {
+      "title": "All's well that ends well",
+      "desc": "Beat everyone in the Ring"
+    },
+    "nearFifty": {
+      "title": "A hair of a gap",
+      "desc": "Pass close fifty times"
+    },
+    "squeezeTen": {
+      "title": "In as a needle, out as a ploughshare",
+      "desc": "Thread two vehicles ten times"
+    },
+    "hornHundred": {
+      "title": "Empty vessels make the most noise",
+      "desc": "Tap the horn a hundred times"
+    },
+    "firstEscape": {
+      "title": "A thief's ten days, an honest man's one",
+      "desc": "Shake the police for the first time"
+    },
+    "fiveStar": {
+      "title": "More thunder than rain",
+      "desc": "Escape from five stars"
+    },
+    "fiveBusts": {
+      "title": "A bad dancer blames the yard",
+      "desc": "Get caught five times"
+    },
+    "trapTen": {
+      "title": "A stick to match the dog",
+      "desc": "Spring ten trouble traps"
+    },
+    "launchTen": {
+      "title": "A stitch in time saves ten",
+      "desc": "Make ten perfect launches"
+    },
+    "shiftTwenty": {
+      "title": "Gears in rhythm",
+      "desc": "Make twenty perfect shifts"
+    },
+    "takedownTen": {
+      "title": "Two birds with one stone",
+      "desc": "Stop ten targets"
+    },
+    "deliveryFive": {
+      "title": "It may break, but it will not bend",
+      "desc": "Finish five deliveries"
+    },
+    "teaTen": {
+      "title": "No tea, no conversation",
+      "desc": "Drink ten cups of tea"
+    },
+    "hundredKm": {
+      "title": "Drop by drop, a sea is made",
+      "desc": "Drive a hundred kilometres"
+    },
+    "lakhEarned": {
+      "title": "Money brings money",
+      "desc": "Earn a lakh in total"
+    },
+    "driftTwenty": {
+      "title": "A straight heart on a crooked road",
+      "desc": "Score twenty thousand drift points"
+    },
+    "domMinute": {
+      "title": "Patience grows the sweetest fruit",
+      "desc": "Hold Dom for a minute in total"
+    },
+    "firstCar": {
+      "title": "Your own car, your own king",
+      "desc": "Buy your first new car"
+    },
+    "tenParts": {
+      "title": "Master of patches",
+      "desc": "Fit ten parts"
+    },
+    "rumourFive": {
+      "title": "The kite took your ear",
+      "desc": "Hear five rumours"
+    },
+    "jobsFive": {
+      "title": "Sugar finds the one who loves it",
+      "desc": "Do five jobs for people"
+    },
+    "weekStreak": {
+      "title": "Keep at it and the fruit ripens",
+      "desc": "Come back seven days in a row"
+    },
+    "firstPhoto": {
+      "title": "Pretty as a picture",
+      "desc": "Take your first photo"
+    },
+    "rainTen": {
+      "title": "Ten wet kilometres",
+      "desc": "Drive ten kilometres in the rain"
+    },
+    "potholeFive": {
+      "title": "Who knows what is under there",
+      "desc": "Hit five hidden potholes"
+    }
+  },
+  "adda": {
+    "title": "The tea stall",
+    "leave": "Up, back to the road",
+    "tea": {
+      "pouring": "Mama lifts the kettle. One cup, Tk {price}.",
+      "skip": "I'm in a hurry, just pour",
+      "nitro": "Tea drunk, nitro full",
+      "saved": "The next drive starts from here",
+      "mended": "The stall boy had a look at the car"
+    },
+    "who": "Who will you sit with?",
+    "askRumour": "Any news?",
+    "askJob": "Any work going?",
+    "askOther": "Let me talk to someone else",
+    "noRumour": "Nothing new. Beat the next one and I will tell you more.",
+    "noJob": "No work just now.",
+    "jobBusy": "Finish the job you have first.",
+    "jobAccept": "I'll do it, Tk {cash}",
+    "jobDecline": "Not today",
+    "jobDeclined": "All right, another day.",
+    "jobTaken": "Thank you. {goal}.",
+    "jobTime": "You have {seconds} seconds.",
+    "jobPlate": "Job in hand",
+    "jobSeconds": "{seconds} seconds left",
+    "jobLate": "Too late now. Never mind, another day.",
+    "daily": "Today's tip, Tk {cash}. That is {streak} days running, and I notice.",
+    "levelUp": "Level {level}! A tip of Tk {cash}",
+    "achievement": "New achievement",
+    "badge": "Adda mode: the police are on leave",
+    "policeBlock": "Not during a chase.",
+    "prompt": {
+      "tea": "A cup of tea? Press Enter",
+      "garage": "Into the garage? Press Enter"
+    },
+    "npc": {
+      "mokbul": {
+        "name": "Mokbul Mama",
+        "role": "Sells the tea",
+        "talk": {
+          "open": {
+            "line": "Come, sit down. How many sugars?",
+            "a": "One, Mama.",
+            "b": "No sugar."
+          },
+          "left": {
+            "line": "Spoken like a gentleman. The city is hot tonight, so take it slowly.",
+            "a": "I will try, Mama."
+          },
+          "right": {
+            "line": "No sugar! So bitter, how will you ever win a race?",
+            "a": "Watch me."
+          },
+          "close": {
+            "line": "Go on, and come back. This stall turns nobody away.",
+            "a": "See you, Mama."
+          }
+        }
+      },
+      "khokon": {
+        "name": "Khokon Bhai",
+        "role": "Thirty years on a rickshaw",
+        "talk": {
+          "open": {
+            "line": "Thirty years on a rickshaw. The alleys here are the lines on my hand.",
+            "a": "What do I do in a jam?",
+            "b": "You know every alley?"
+          },
+          "left": {
+            "line": "One tap of the horn, no scolding. People make room if they get respect.",
+            "a": "I will remember."
+          },
+          "right": {
+            "line": "I do. Take a wrong one and you will find out. The bazaar does not give way.",
+            "a": "I will be careful."
+          },
+          "close": {
+            "line": "Slow down for a rickshaw, brother. Everybody wants to get home.",
+            "a": "Of course, Bhai."
+          }
+        }
+      },
+      "rumki": {
+        "name": "Rumki",
+        "role": "Delivers by motorcycle",
+        "talk": {
+          "open": {
+            "line": "Your car sounds good. How do you drive it?",
+            "a": "Not badly.",
+            "b": "Still learning."
+          },
+          "left": {
+            "line": "Not badly means not well either. We will see, with the police behind you.",
+            "a": "We will."
+          },
+          "right": {
+            "line": "The ones who say so are the ones who last. Flying comes later, brakes first.",
+            "a": "Fair enough."
+          },
+          "close": {
+            "line": "Remember my name. One day we race, in some alley.",
+            "a": "One day."
+          }
+        }
+      },
+      "latif": {
+        "name": "Latif Chacha",
+        "role": "Keeps the pharmacy",
+        "talk": {
+          "open": {
+            "line": "Child, where to, so fast, so late? Is nobody waiting at home?",
+            "a": "Someone is, Chacha.",
+            "b": "This city is home."
+          },
+          "left": {
+            "line": "Then go back slowly. I have bandaged many fast boys.",
+            "a": "Yes, Chacha."
+          },
+          "right": {
+            "line": "A city claims nobody, child. Still, drink tea and talk, and you will be well.",
+            "a": "Thank you, Chacha."
+          },
+          "close": {
+            "line": "Go carefully. The people on the road have homes as well.",
+            "a": "I will."
+          }
+        }
+      },
+      "dalim": {
+        "name": "Dalim",
+        "role": "New apprentice at the garage",
+        "talk": {
+          "open": {
+            "line": "Bhai, I saw your tyre marks at the crossing! Magic in those hands?",
+            "a": "A little.",
+            "b": "Wipe them off, would you."
+          },
+          "left": {
+            "line": "Ustad is teaching me. A good drift means the nose goes in before the brakes.",
+            "a": "That is right."
+          },
+          "right": {
+            "line": "Ha, those marks are honour itself! Ustad says tyres must burn before you learn.",
+            "a": "Ustad is right."
+          },
+          "close": {
+            "line": "Come by the garage and I will change your tyres. Dalim, remember the name.",
+            "a": "I will."
+          }
+        }
+      }
+    },
+    "job": {
+      "milkRun": {
+        "offer": "We are out of milk, Mama. Can you bring the can from the stall in Tea Lane?",
+        "goal": "Take the milk can to Tea Lane",
+        "done": "Milk at last! Tk {cash} for you, and the tea is free."
+      },
+      "medicine": {
+        "offer": "Child, an old woman at Uralganj Crossing needs this medicine today. Will you take it?",
+        "goal": "Take the medicine to Uralganj Crossing",
+        "done": "It reached her in time. Tk {cash}, and my blessings."
+      },
+      "nephew": {
+        "offer": "My nephew left his bag, and his launch sails from Kajal Ghat. Can you make it?",
+        "goal": "Take the bag to Kajal Ghat Dock",
+        "done": "He made the launch. Tk {cash} for you, brother."
+      },
+      "clearJam": {
+        "offer": "Everyone in the rickshaw jam is half asleep. Pass close eight times, touching nobody. Give them a laugh.",
+        "goal": "Pass close eight times",
+        "done": "The whole jam clapped! Tk {cash} for you."
+      },
+      "smokeShow": {
+        "offer": "Bhai, I want to show Ustad a real drift. Three thousand points, can you do it?",
+        "goal": "Score three thousand drift points",
+        "done": "Ustad's eyes went wide! Tk {cash} is yours."
+      },
+      "squeezeThree": {
+        "offer": "Go through the gap between two vehicles, three times. Do you dare?",
+        "goal": "Thread two vehicles three times",
+        "done": "You are not a person, you are a thread! Tk {cash}."
+      },
+      "dareEscape": {
+        "offer": "I bet you cannot shake the police once they are on you. Show me.",
+        "goal": "Shake the police once",
+        "done": "You win the bet. Tk {cash}."
+      },
+      "trapPolice": {
+        "offer": "Those trouble traps just sit there, and nobody uses them. Spring two.",
+        "goal": "Spring two trouble traps",
+        "done": "The bazaar is still laughing! Tk {cash}."
+      }
+    },
+    "rumour": {
+      "mithu": [
+        "Nobody beats Mithu in the alleys. But on a wide road the car runs out of breath, so catch up there.",
+        "Mithu makes mistakes when rushed. Stay on the tail and the wall does the rest."
+      ],
+      "sadia": [
+        "Sadia never rams and never slips. She waits for your mistake, so drive clean.",
+        "Her car is slow and her line makes up for it. A long road leaves her behind."
+      ],
+      "badal": [
+        "Badal is a tiger in wet corners, with special tyres they say. Keep your nitro for the straights.",
+        "Badal has little pull. The longer the straight, the better for you."
+      ],
+      "jisan": [
+        "Do not sit beside Jisan, or you will get rammed. Pass in one go.",
+        "Jisan gets stuck in traffic. A crowd is the easiest place to lose him."
+      ],
+      "papri": [
+        "No use chasing Papri through corners. Catch her on a straight with nitro.",
+        "Papri's top speed is low. Lose the corner and win it all back on the straight."
+      ],
+      "tanvir": [
+        "Tanvir flies on a straight, but his hands shake in a narrow alley. Catch him there.",
+        "He burns his nitro early. Do not panic if he goes ahead at the start."
+      ],
+      "rubel": [
+        "Rubel watches his mirror and blocks. Change sides at the very last moment.",
+        "Blocking ruins his line through corners. Look for the gap on the inside."
+      ],
+      "nila": [
+        "Nila drives without lights, so your mirror will not help. Watch the dot on the minimap.",
+        "Nila honks traffic out of the way. Stay behind her and the road is clear."
+      ],
+      "shaon": [
+        "Shaon is another person on the last lap. Build your gap before it, or you are caught.",
+        "Shaon saves nitro for the very end. Early on, he is easy to catch."
+      ],
+      "jahan": [
+        "Jahan remembers which side you pass on, and when you use nitro. Change your habits.",
+        "They say Jahan once worked in Ustad's garage. Ustad will not say, but silence says something too."
+      ]
+    }
+  },
+  "ledger": {
+    "title": "Ledger",
+    "close": "Close the ledger",
+    "level": "Level {level}",
+    "rep": "{rep} reputation, next level at {next}",
+    "topLevel": "The highest level there is",
+    "cash": "Cash in hand",
+    "condition": "Car condition",
+    "streak": "Days in a row",
+    "days": "{days} days",
+    "noJob": "No job in hand. Ask at a tea stall.",
+    "drop": "Give up this job",
+    "achievements": "Achievements: {done} / {total}",
+    "stat": {
+      "raceWins": "Races won",
+      "rivalsBeaten": "Rivals beaten",
+      "escapes": "Escapes",
+      "busts": "Arrests",
+      "teas": "Cups of tea",
+      "kilometres": "Kilometres"
+    }
+  },
+  "clock": {
+    "format": "{hour}:{minute} {part}",
+    "part": {
+      "night": "at night",
+      "dawn": "at dawn",
+      "morning": "in the morning",
+      "noon": "at noon",
+      "afternoon": "in the afternoon",
+      "evening": "in the evening"
+    }
+  },
+  "weather": {
+    "clear": "clear",
+    "monsoon": "rain",
+    "fog": "fog",
+    "blackout": "load-shedding"
+  },
+  "replay": {
+    "stamp": "Replay",
+    "play": "Play",
+    "pause": "Pause",
+    "seek": "Where in the replay",
+    "photo": "Take a photo",
+    "close": "Leave",
+    "tooShort": "Nothing worth showing yet.",
+    "speed": {
+      "0_5": "Half",
+      "1": "Normal",
+      "2": "Double"
+    },
+    "camera": {
+      "auto": "Director",
+      "chase": "Behind",
+      "low": "Low",
+      "side": "Side",
+      "trackside": "Roadside",
+      "orbit": "Orbit",
+      "heli": "Above",
+      "hood": "Bonnet"
+    }
+  },
+  "photo": {
+    "title": "Photo mode",
+    "slider": {
+      "distance": "Distance",
+      "height": "Height",
+      "roll": "Tilt",
+      "fov": "Lens",
+      "blur": "Background blur",
+      "time": "Time of day"
+    },
+    "lookLabel": "Look",
+    "look": {
+      "plain": "As it is",
+      "rickshaw": "Rickshaw paint",
+      "cinema": "Cinema hall",
+      "monsoon": "Monsoon",
+      "old": "Old photo"
+    },
+    "frameLabel": "Frame",
+    "frame": {
+      "none": "None",
+      "flowers": "Flowers",
+      "chain": "Chain",
+      "waves": "Waves",
+      "cinema": "Hoarding"
+    },
+    "captionLabel": "Add words",
+    "captions": [
+      "Mother's blessing",
+      "King of the road",
+      "Not king of Dhaka, of Borshabad",
+      "Rain means a day off",
+      "See you again",
+      "Back after tea",
+      "I do not drive carefully",
+      "I will be back"
+    ],
+    "captionHint": "Write your own",
+    "captionAdd": "Add",
+    "stickerHelp": "{text}. Drag to move, or use the arrow keys",
+    "stickerRemove": "Remove these words",
+    "shoot": "Click!",
+    "hidePanel": "Hide the panel",
+    "showPanel": "Show the panel",
+    "close": "Leave",
+    "done": "Photo saved.",
+    "failed": "Could not save the photo."
+  },
+  "radio": {
+    "call": "Radio Jhor · RJ Tuntuni",
+    "playing": "Now playing: {title}",
+    "mode": {
+      "full": "Radio: music and DJ",
+      "music": "Radio: music only",
+      "off": "Radio off"
+    },
+    "lines": {
+      "welcome": [
+        "Welcome to Radio Jhor! I am Tuntuni. The road is yours tonight, and the songs are mine.",
+        "This is Radio Jhor, the one friend of every reckless soul in Borshabad."
+      ],
+      "heat1": [
+        "I hear someone has caught the police's eye. Was that you? I have turned it up.",
+        "I can hear a siren. Do not worry, the music is still playing."
+      ],
+      "heat3": [
+        "Three stars! Better watch the sky as well, the drone is going up.",
+        "The chase is getting good. We are behind you, in words only."
+      ],
+      "heat5": [
+        "Five stars! The whole city is after you. This one is for you, if you last to the end of it.",
+        "I hear the helicopter is up. Get under a roof, friend. Under a roof."
+      ],
+      "escaped": [
+        "You got away! Chief Talukdar is punching a table about now, you can be sure.",
+        "The chase is over. Have a cup of tea now, it will calm your heart."
+      ],
+      "busted": [
+        "Caught? Oh dear. Go and pay the fine, the music will wait.",
+        "Today went to the police. Tomorrow is yours."
+      ],
+      "raceWin": [
+        "News from the Ring, you won! Your name is all over the bazaar now.",
+        "A win! This song goes out in your name. Ustad may even smile, once."
+      ],
+      "raceLose": [
+        "Not today. Ustad says do not blame the car, look at yourself first.",
+        "If at first you fail, try a hundred times. I am not counting."
+      ],
+      "crash": [
+        "What was that noise? No, surely not yours.",
+        "I felt that one from here. Careful, that car cost money."
+      ],
+      "levelUp": [
+        "I hear your name is rising. The tea stalls talk of nothing else.",
+        "A new level! Ustad has better parts for you now."
+      ],
+      "rainStart": [
+        "Rain has come to Borshabad. The road is slick, so brake early. I will play something softer.",
+        "The sky has broken! No song can match rain on a tin roof, but let us try."
+      ],
+      "rainStop": [
+        "The rain has stopped, but the low roads still have water. Do not go in fast.",
+        "The sky is clearing. Take a look at the neon on the wet road."
+      ],
+      "fogStart": [
+        "The fog is coming down. Cannot see ahead? Neither can the police.",
+        "Headlights do little in fog like this. Keep your ears open."
+      ],
+      "fogStop": [
+        "The fog is lifting. You can see the city again, and it is worth seeing."
+      ],
+      "blackoutStart": [
+        "Load-shedding again! The whole area is dark. Only the shop boards and your headlights now.",
+        "The power has gone. We are on the generator, so the music goes on, a little slower."
+      ],
+      "blackoutEnd": [
+        "The power is back! The whole neighbourhood cheered at once, did you hear?",
+        "The lights are back. When the next cut comes, nobody knows."
+      ],
+      "dawn": [
+        "Dawn is coming. If you were out all night, go home now, your mother is worried.",
+        "The birds are up and the city is waking. This is the road I love best."
+      ],
+      "morning": [
+        "Good morning, Borshabad! Office hours are here, and the roads will fill up."
+      ],
+      "dusk": [
+        "Evening is falling. The shop boards are lighting up, and the city is about to show its real face.",
+        "Those on the road after sundown are my listeners. Welcome."
+      ],
+      "night": [
+        "It is night now. The Radio Jhor night shift begins, and I am here."
+      ],
+      "flood": [
+        "Word is that the road near {place} is under water. You will not see the holes, so be careful.",
+        "Knee-deep water near {place}. Go fast and the car will float."
+      ],
+      "report": [
+        "Weather and traffic: it is {time}, and the sky is {weather}. Rickshaws are backed up at {jam}, so take another way.",
+        "It is {time}. Outside, {weather}. As for traffic, {jam} is as ever, which is to say not moving.",
+        "The Borshabad traffic office says to avoid {jam}. We can add that they avoid it themselves."
+      ],
+      "advert": [
+        "Lal Mia's Jilapi! More twists than the roads of Borshabad. Old Town bazaar, from evening on.",
+        "Jamai Ador Biryani. Stop by before you visit the in-laws.",
+        "Jhalmal Electric: in a load-shedding we sit in the dark too, but we have rechargeable lights.",
+        "Mayer Doa Store. Everything you need, except what you came for."
+      ],
+      "banter": [
+        "A listener writes, pay rickshaw drivers more in the rain. I agree.",
+        "The price of tea at Mokbul Mama's has not gone up. That is the best news today.",
+        "To those honking: the one in front can hear you, and still will not move.",
+        "Ustad tells me that a car is driven by the head, not the foot. I do not drive, so I would not know.",
+        "Remember, all this recklessness is for the radio, not the road."
+      ],
+      "song": [
+        "A new song now, and nobody knows who made it. Neither do we.",
+        "This next one comes from our studio's old dhol and a cracked flute."
+      ]
+    },
+    "songs": {
+      "adda": [
+        "Ripples in a Teacup",
+        "Home After the Adda"
+      ],
+      "cruise": [
+        "Neon Flute",
+        "Sky at the End of the Lane",
+        "Sunny Lane"
+      ],
+      "rain": [
+        "Night on a Tin Roof",
+        "Wet Headlights"
+      ],
+      "blackout": [
+        "Ektara, No Power",
+        "Song of the Dark"
+      ],
+      "race": [
+        "The Ring",
+        "Engine Under the Dhol"
+      ],
+      "pursuit": [
+        "The Chase",
+        "Five Stars",
+        "Siren Song"
+      ]
+    }
+  },
+  "keys": {
+    "space": "Space"
+  },
+  "banter": {
+    "tag": "AI"
+  },
+  "ghost": {
+    "tagBest": "Your best",
+    "tagNamed": "{name}'s ghost",
+    "gapAhead": "{seconds} s ahead of the ghost",
+    "gapBehind": "{seconds} s behind the ghost",
+    "none": "No ghost for this race yet. Finish it once first.",
+    "label": "Ghost",
+    "saved": "New best, ghost kept",
+    "won": "You beat the ghost!",
+    "lost": "The ghost won",
+    "theirTime": "Ghost time",
+    "battle": "Race the ghost",
+    "raceThis": "Race ghost",
+    "raceName": "Race {name}'s ghost"
+  },
+  "challenge": {
+    "title": "Challenges",
+    "word": "Word of the day: {word}",
+    "words": [
+      "jhum — the steady roar of heavy rain",
+      "tapur-tupur — raindrops on a tin roof",
+      "godhuli — the soft light just after sunset",
+      "kakbhor — very early dawn, when the crows start",
+      "chompot — to slip away fast",
+      "hurmur — tumbling in all at once",
+      "tukhor — sharp, very good at it",
+      "duddar — racing along with a clatter",
+      "jhokjhoke — spotless and shining",
+      "shonshon — the sound of a strong wind",
+      "phurphure — light and breezy, in a good mood",
+      "hontodonto — rushing in, all in a hurry",
+      "jobordosto — mighty, terrific",
+      "khunshuti — playful little squabbling",
+      "adda — friends sitting and talking for hours",
+      "jhirijhiri — the lightest drizzle",
+      "chandiphata — head-splitting midday sun",
+      "kuasha — fog, the thick white sheet in the air",
+      "hapittesh — waiting, desperate for something",
+      "londobhondo — everything thrown into chaos",
+      "jhotpot — quick, right away",
+      "toitombur — full to the brim",
+      "mitmite — a faint, flickering light",
+      "beporowa — not caring about anything at all"
+    ],
+    "slot": {
+      "daily": "Today's challenge",
+      "weekly": "This week's challenge"
+    },
+    "mode": {
+      "timeAttack": "Time attack",
+      "rainRush": "Rain rush",
+      "nightDelivery": "Night delivery",
+      "fogRun": "Fog run",
+      "blackoutRun": "Load-shedding run",
+      "driftRain": "Wet drift",
+      "jamEscape": "Jam escape",
+      "photoHunt": "Photo hunt"
+    },
+    "modeBrief": {
+      "timeAttack": "Alone on the road, just you and the clock. Beat your own ghost.",
+      "rainRush": "Water on the roads and slippery tyres. Mind the potholes.",
+      "nightDelivery": "Get the sweets across the night city without breaking a single one.",
+      "fogRun": "You can't see past the bonnet. Only knowing the road will save you.",
+      "blackoutRun": "The power is out and the street lamps are dark. Trust the headlights.",
+      "driftRain": "Go sideways on wet roads: spray instead of smoke.",
+      "jamEscape": "The police are on you in a packed street. Vanish before the clock runs out.",
+      "photoHunt": "Take a photo of the car in the right place, in the right light. Just press the photo button."
+    },
+    "def": {
+      "jamDaily": "Midday jam",
+      "jamWeekly": "The great night jam",
+      "duskPhoto": "The square at dusk",
+      "dockPhoto": "The ghat in the rain",
+      "slipRain": "Dawn rain slide"
+    },
+    "goal": {
+      "pace": "Average {kmh} km/h: finish inside {time}",
+      "medal": "Earn at least a {medal} medal",
+      "score": "At least {points} drift points",
+      "escape": "Shake off {stars}-star police within {seconds} seconds",
+      "photo": "Photograph the car near {place}"
+    },
+    "heavyTraffic": "Double traffic",
+    "xp": "{xp} season points",
+    "rewardLine": "Reward: {reward}",
+    "doneToday": "✓ Done",
+    "yourBest": "Your best: {best}",
+    "tries": "Tries: {count}",
+    "start": "Start",
+    "again": "Play again",
+    "giveUp": "Give up",
+    "board": "Leaderboard",
+    "boardTitle": "{name}: leaderboard",
+    "noBoard": "This challenge is not timed, so it has no leaderboard.",
+    "noPoliceInAdda": "There are no police in adda mode. Turn adda mode off first.",
+    "begin": {
+      "escape": "The police are on their way! {goal}.",
+      "photo": "{goal}. The route is on the map."
+    },
+    "failBusted": "Caught! The challenge is lost; try again.",
+    "failTime": "Time's up, the challenge is lost. But do still get away!",
+    "escaped": "Brilliant! Gone in {time}. {reward}",
+    "escapedLate": "Away, but late: {time}. {reward}",
+    "photoTooFar": "You're {metres} m from the spot; get a bit closer.",
+    "photoDone": "Lovely shot! {reward}",
+    "chipEscape": "Jam escape · {seconds} s left",
+    "chipPhoto": "Take a photo: {place}",
+    "met": "Challenge done!",
+    "missed": "Not this time",
+    "goalLabel": "Goal",
+    "rewardLabel": "Reward",
+    "bestLabel": "New best",
+    "seasonLabel": "Season points",
+    "tierLabel": "Tier",
+    "tierReached": "You reached tier {tier}!",
+    "phoneFrom": "Challenge",
+    "boardButton": "Challenge board"
+  },
+  "season": {
+    "name": {
+      "grishmo": "Grishmo (summer)",
+      "borsha": "Borsha (monsoon)",
+      "shorot": "Shorot (early autumn)",
+      "hemonto": "Hemonto (late autumn)",
+      "sheet": "Sheet (winter)",
+      "boshonto": "Boshonto (spring)"
+    },
+    "title": "{season} pass · {year} Bangabda",
+    "daysLeft": "{days} days left",
+    "xpLine": "{xp} points · tier {tier} · {next} to the next tier",
+    "allTiers": "{xp} points · every tier done!",
+    "stamps": "Stamps collected: {list}",
+    "noStamps": "No season stamps yet. Tier ten gives one.",
+    "claim": "Collect",
+    "claimTier": "Collect the tier {tier} reward",
+    "state": {
+      "locked": "Locked",
+      "claimed": "Collected"
+    },
+    "reward": {
+      "colour": "Season paint",
+      "glow": "Season glow",
+      "stamp": "Season stamp"
+    },
+    "gotCash": "You got {cash}!",
+    "gotColour": "A new season paint is in the garage!",
+    "gotGlow": "A new season glow is in the garage!",
+    "gotStamp": "The {season} stamp is yours!",
+    "of": {
+      "grishmo": "Grishmo",
+      "borsha": "Borsha",
+      "shorot": "Shorot",
+      "hemonto": "Hemonto",
+      "sheet": "Sheet",
+      "boshonto": "Boshonto"
+    }
+  },
+  "online": {
+    "defaultName": "Driver {digits}",
+    "loading": "Fetching the board…",
+    "offline": "The online leaderboard can't be reached right now.",
+    "offlineBest": "Your best on this machine: {best}.",
+    "empty": "Nobody yet. Be the first!",
+    "total": "{count} drivers in all",
+    "ghostMissing": "Couldn't fetch that ghost.",
+    "notSent": "Couldn't send it online, but it's kept here.",
+    "refused": "The online board didn't take that run.",
+    "boardFrom": "Leaderboard",
+    "rankNow": "You are now {rank} out of {total}.",
+    "eventRank": "You are {rank} on the online board for {event}!"
+  },
+  "friends": {
+    "title": "With friends",
+    "notConfigured": "This build has no friends server. It works once you run your own relay server.",
+    "name": "Your name",
+    "create": "Open a new room",
+    "code": "Room code",
+    "join": "Join",
+    "watch": "Just watch",
+    "event": "Which race",
+    "start": "Start for everyone",
+    "waitHost": "The room owner will start the race…",
+    "leave": "Leave the room",
+    "note": "Friends' cars are ghosts: no touching, no bumping. Each car runs on its own driver's machine.",
+    "roomCode": "Room code: {code} · send it to your friends",
+    "host": "Room owner",
+    "you": "You",
+    "watcher": "Watching",
+    "status": {
+      "off": "Not connected yet",
+      "connecting": "Connecting…",
+      "open": "Connected",
+      "closed": "Connection lost",
+      "failed": "Couldn't reach the server"
+    },
+    "badCode": "The code has four letters.",
+    "rudeName": "Please pick a politer name.",
+    "error": {
+      "roomFull": "The room is full.",
+      "busy": "The server is busy; try again shortly.",
+      "noRoom": "No room has that code.",
+      "notHost": "Only the room owner can start."
+    },
+    "resultsTitle": "Race with friends",
+    "watching": "Watching: {name}",
+    "prev": "Previous driver",
+    "next": "Next driver",
+    "stopWatching": "Stop watching"
+  }
+}

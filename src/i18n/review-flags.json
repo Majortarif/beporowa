@@ -1,0 +1,537 @@
+{
+  "_about": "Lines the owner should review by ear. tag: slang = street flavour, dialect = regional tone. No full regional dialect is used yet.",
+  "drift.tier1": {
+    "tag": "slang",
+    "note": "জোশ is casual praise"
+  },
+  "drift.tier2": {
+    "tag": "slang",
+    "note": "কী টান is street slang for a great slide, ওস্তাদ used as friendly address"
+  },
+  "drift.tier3": {
+    "tag": "slang",
+    "note": "পুরা is the spoken form of পুরো"
+  },
+  "sign.turn": {
+    "tag": "slang",
+    "note": "দম নিন is a playful road-sign line, also hints the দম slow-mo ability"
+  },
+  "city.bubble.yield": {
+    "tag": "slang",
+    "note": "সরতাছি is Dhaka street speech for সরছি; ভাই as friendly address"
+  },
+  "city.bubble.scatter": {
+    "tag": "slang",
+    "note": "গেলাম রে is a comic cry"
+  },
+  "city.bubble.honkBack": {
+    "tag": "slang",
+    "note": "কী হইল and ওই মিয়া are Dhaka street speech; light, not rude"
+  },
+  "city.bubble.hit": {
+    "tag": "slang",
+    "note": "Short complaints from other drivers, kept clean"
+  },
+  "city.horn.double": {
+    "tag": "slang",
+    "note": "হইল is the spoken form of হলো"
+  },
+  "city.tutorial.double": {
+    "tag": "slang",
+    "note": "ওস্তাদ speaking casually: দেখেন"
+  },
+  "city.horn.triple": {
+    "tag": "slang",
+    "note": "মাথা ঘুরে গেছে: playful, means they are confused"
+  },
+  "city.tutorial.pursuit": {
+    "tag": "slang",
+    "note": "ওস্তাদ speaks: গুঁতো দিলে, লেগেছে are street forms"
+  },
+  "police.hud.escaped": {
+    "tag": "slang",
+    "note": "হাওয়া হয়ে গেলেন: vanished into thin air"
+  },
+  "police.hud.trapStunned.other": {
+    "tag": "slang",
+    "note": "আটকা is the spoken short form of আটকে গেছে"
+  },
+  "police.radio.pit": {
+    "tag": "slang",
+    "note": "গুঁতো means a shove, used on purpose instead of a technical word"
+  },
+  "police.radio.heli": {
+    "tag": "slang",
+    "note": "পালাবে কোথায় uses তুমি form, taunting the driver over the radio"
+  },
+  "police.radio.found": {
+    "tag": "slang",
+    "note": "ধরো ধরো: excited shout"
+  },
+  "police.radio.horn": {
+    "tag": "slang",
+    "note": "comic complaint about horns, the only joke the radio makes"
+  },
+  "police.radio.escape": {
+    "tag": "slang",
+    "note": "গাড়িটা হাওয়া, হাত ছাড়া: casual police talk"
+  },
+  "police.radio.chief": {
+    "tag": "slang",
+    "note": "সবার বদলি: a threat of transfer, the fictional chief is a comic figure, please check the tone feels fine"
+  },
+  "rival.mithu.intro": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.win": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.lose": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.passed": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.passing": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.bump": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.provoked": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.mithu.finishFirst": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: আইছেন, হারায়া, মিয়া. Light, for a native ear"
+  },
+  "rival.badal.intro": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.win": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.lose": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.passed": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.passing": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.bump": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.provoked": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.badal.finishFirst": {
+    "tag": "dialect",
+    "note": "খুলনা flavour: কনে, যাতিছেন, চালাতিছি, হলি. Light, for a native ear"
+  },
+  "rival.jisan.intro": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.win": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.lose": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.passed": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.passing": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.bump": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.provoked": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.jisan.finishFirst": {
+    "tag": "dialect",
+    "note": "রাজশাহী flavour: হামি, গেনু, আসিছি, চাহামু. Light, for a native ear"
+  },
+  "rival.rubel.intro": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.win": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.lose": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.passed": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.passing": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.bump": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.provoked": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.rubel.finishFirst": {
+    "tag": "dialect",
+    "note": "চট্টগ্রাম flavour: অনে, আঁই, ন, কডে, আইয়ুন. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.intro": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.win": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.lose": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.passed": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.passing": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.bump": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.provoked": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.nila.finishFirst": {
+    "tag": "dialect",
+    "note": "সিলেট flavour: আফনে, কিতা, বাক্কা, নায়. Written from general knowledge, so it needs a native speaker"
+  },
+  "rival.shaon.intro": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.win": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.lose": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.passed": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.passing": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.bump": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.provoked": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.shaon.finishFirst": {
+    "tag": "dialect",
+    "note": "ঢাকাইয়া flavour: অহনো, আগায়া, চলতাছে. Light, for a native ear"
+  },
+  "rival.tanvir.intro": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.win": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.lose": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.passed": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.passing": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.bump": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.provoked": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.tanvir.finishFirst": {
+    "tag": "slang",
+    "note": "A rich boy looking down on the old town. It should read as a joke on him, so please check the tone"
+  },
+  "rival.jahan.intro": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.win": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.lose": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.passed": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.passing": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.bump": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.provoked": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "rival.jahan.finishFirst": {
+    "tag": "slang",
+    "note": "Standard speech, cold in tone. The twist that Jahan learned from ওস্তাদ lives in these lines"
+  },
+  "ring.phoneWelcome": {
+    "tag": "slang",
+    "note": "ওস্তাদ speaks: লেখান, থামেন are the friendly spoken forms"
+  },
+  "ring.phoneChampion": {
+    "tag": "slang",
+    "note": "ওস্তাদ speaks, and this reveals the twist"
+  },
+  "race.result.dnf": {
+    "tag": "slang",
+    "note": "Plain and a bit teasing, please check it reads well"
+  },
+  "adda.npc.mokbul.talk.open.line": {
+    "tag": "slang",
+    "note": "Dhaka tea-stall speech: বসেন, আইসেন, চালাইয়েন, কাউরে, মামা as friendly address"
+  },
+  "adda.npc.mokbul.talk.left.line": {
+    "tag": "slang",
+    "note": "Dhaka tea-stall speech: বসেন, আইসেন, চালাইয়েন, কাউরে, মামা as friendly address"
+  },
+  "adda.npc.mokbul.talk.right.line": {
+    "tag": "slang",
+    "note": "Dhaka tea-stall speech: বসেন, আইসেন, চালাইয়েন, কাউরে, মামা as friendly address"
+  },
+  "adda.npc.mokbul.talk.close.line": {
+    "tag": "slang",
+    "note": "Dhaka tea-stall speech: বসেন, আইসেন, চালাইয়েন, কাউরে, মামা as friendly address"
+  },
+  "adda.npc.khokon.talk.open.line": {
+    "tag": "slang",
+    "note": "Spoken Dhaka forms: টিপেন, কমাইয়েন. Respectful and warm, please check the tone"
+  },
+  "adda.npc.khokon.talk.left.line": {
+    "tag": "slang",
+    "note": "Spoken Dhaka forms: টিপেন, কমাইয়েন. Respectful and warm, please check the tone"
+  },
+  "adda.npc.khokon.talk.right.line": {
+    "tag": "slang",
+    "note": "Spoken Dhaka forms: টিপেন, কমাইয়েন. Respectful and warm, please check the tone"
+  },
+  "adda.npc.khokon.talk.close.line": {
+    "tag": "slang",
+    "note": "Spoken Dhaka forms: টিপেন, কমাইয়েন. Respectful and warm, please check the tone"
+  },
+  "adda.npc.rumki.talk.open.line": {
+    "tag": "slang",
+    "note": "Casual teasing: রাইখেন, ওড়াউড়ি"
+  },
+  "adda.npc.rumki.talk.left.line": {
+    "tag": "slang",
+    "note": "Casual teasing: রাইখেন, ওড়াউড়ি"
+  },
+  "adda.npc.rumki.talk.right.line": {
+    "tag": "slang",
+    "note": "Casual teasing: রাইখেন, ওড়াউড়ি"
+  },
+  "adda.npc.rumki.talk.close.line": {
+    "tag": "slang",
+    "note": "Casual teasing: রাইখেন, ওড়াউড়ি"
+  },
+  "adda.npc.dalim.talk.open.line": {
+    "tag": "slang",
+    "note": "Young apprentice: হে হে, ইজ্জত, আইসেন, রাইখেন"
+  },
+  "adda.npc.dalim.talk.left.line": {
+    "tag": "slang",
+    "note": "Young apprentice: হে হে, ইজ্জত, আইসেন, রাইখেন"
+  },
+  "adda.npc.dalim.talk.right.line": {
+    "tag": "slang",
+    "note": "Young apprentice: হে হে, ইজ্জত, আইসেন, রাইখেন"
+  },
+  "adda.npc.dalim.talk.close.line": {
+    "tag": "slang",
+    "note": "Young apprentice: হে হে, ইজ্জত, আইসেন, রাইখেন"
+  },
+  "adda.job.milkRun.offer": {
+    "tag": "slang",
+    "note": "Spoken forms from the character who gives this job"
+  },
+  "adda.job.milkRun.done": {
+    "tag": "slang",
+    "note": "Spoken forms, for example পাইছি, পারছে"
+  },
+  "adda.job.nephew.offer": {
+    "tag": "slang",
+    "note": "Spoken forms from the character who gives this job"
+  },
+  "adda.job.nephew.done": {
+    "tag": "slang",
+    "note": "Spoken forms, for example পাইছি, পারছে"
+  },
+  "adda.job.clearJam.offer": {
+    "tag": "slang",
+    "note": "Spoken forms from the character who gives this job"
+  },
+  "adda.job.clearJam.done": {
+    "tag": "slang",
+    "note": "Spoken forms, for example পাইছি, পারছে"
+  },
+  "adda.job.smokeShow.offer": {
+    "tag": "slang",
+    "note": "Spoken forms from the character who gives this job"
+  },
+  "adda.job.smokeShow.done": {
+    "tag": "slang",
+    "note": "Spoken forms, for example পাইছি, পারছে"
+  },
+  "ach.nearFifty.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.shiftTwenty.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.teaTen.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.driftTwenty.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.firstCar.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.tenParts.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.weekStreak.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.firstWin.title": {
+    "tag": "slang",
+    "note": "From a well-known old poem, please confirm the wording you prefer"
+  },
+  "garage.sloganChoices": {
+    "tag": "slang",
+    "note": "Painted on real buses and trucks. আল্লাহ ভরসা is a religious phrase, kept because it is everyday truck art. Remove it if you would rather not have it"
+  },
+  "radio.lines.heat5": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.crash": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.rainStart": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.blackoutStart": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.advert": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.banter": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.report": {
+    "tag": "slang",
+    "note": "RJ Tuntuni is a chatty, teasing radio host. Please check these by ear"
+  },
+  "radio.lines.dusk": {
+    "tag": "slang",
+    "note": "One line mentions মাগরিব to mark the time of evening, as people do in everyday speech. Please check that it sits right, or say if you would rather not mention it"
+  },
+  "photo.captions": {
+    "tag": "slang",
+    "note": "Ready-made photo captions, in a playful voice"
+  },
+  "ach.firstPhoto.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.rainTen.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "ach.potholeFive.title": {
+    "tag": "slang",
+    "note": "Original line, not a traditional proverb"
+  },
+  "challenge.words": "Phase 7: word-of-the-day list with plain meanings. চম্পট, দুদ্দাড়, হাপিত্যেশ and লণ্ডভণ্ড are colloquial; check that each meaning reads naturally.",
+  "challenge.modeBrief.jamEscape": "Phase 7: \"হাওয়া হয়ে যাও\" is street slang for vanishing.",
+  "challenge.escaped": "Phase 7: \"হাওয়া\" again as slang for getting away.",
+  "challenge.photoDone": "Phase 7: \"খাসা\" is colloquial praise; fine for a friendly tone?",
+  "friends.rudeName": "Phase 7: gentle telling-off; check it does not sound preachy.",
+  "settings.banterNote": "Phase 7: explains the optional AI writer; ক্লড is the AI's name written in Bangla."
+}

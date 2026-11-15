@@ -1,0 +1,16 @@
+{
+  "name": "beporowa-relay",
+  "version": "0.7.0",
+  "description": "The friends relay for বেপরোয়া (Beporowa): rooms with a code, and each player's car passed on to the others.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "dependencies": {
+    "ws": "8.22.2"
+  }
+}

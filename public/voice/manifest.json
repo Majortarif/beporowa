@@ -1,0 +1,4 @@
+{
+  "_about": "Drop recorded lines in this folder and list them here. The key is the language-file key plus the line's index, for example radio.lines.rainStart.0. See the README, under Recorded voice.",
+  "lines": {}
+}
