@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/version-0.7.0-d8402b?style=flat-square" alt="সংস্করণ ০.৭.০">
   <img src="https://img.shields.io/badge/Bangla--first-UI%2C_voice_%26_radio-f2a20c?style=flat-square" alt="বাংলা প্রথম: মেনু, কণ্ঠ আর রেডিও">
-  <img src="https://img.shields.io/badge/live_demo-coming_soon-6b6b6b?style=flat-square" alt="লাইভ ডেমো শিগগিরই">
+  <a href="https://beporowa.netlify.app"><img src="https://img.shields.io/badge/play_now-beporowa.netlify.app-0f7f7a?style=flat-square&logo=netlify&logoColor=white" alt="এখনই খেলুন: beporowa.netlify.app"></a>
   <br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
@@ -23,7 +23,7 @@ Read in English: [README.md](README.md)
 
 > **অবস্থা: সাতটা ফেজই তৈরি।** জীবন্ত শহরের তিনটা এলাকা, পুলিশি ধাওয়া, দ্য রিং, দশ গাড়ির গ্যারেজ, সারাদিনের আবহাওয়া, ফটো মোড, রিপ্লে, নিজস্ব গান, বাংলা রেডিও ডিজে, আর এখন ভূত, দৈনিক ও সাপ্তাহিক চ্যালেঞ্জ, বাংলা ঋতু ধরে বিনামূল্যের সিজন পাস, অনলাইন সেরা তালিকা, বন্ধুদের সাথে রেস, ফোন কাত করে স্টিয়ারিং, কাঁপুনি আর সহজে খেলার সেটিংস। পুরো পরিকল্পনা আছে [docs/GDD.md](docs/GDD.md) ফাইলে।
 
-**লাইভ ডেমো:** এখনো ডিপ্লয় করা হয়নি।
+**এখনই খেলুন:** [beporowa.netlify.app](https://beporowa.netlify.app)। কম্পিউটারের ব্রাউজারে কিবোর্ড বা গেমপ্যাড দিয়ে খেলতে সবচেয়ে ভালো।
 
 ## স্ক্রিনশট
 

@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/version-0.7.0-d8402b?style=flat-square" alt="Version 0.7.0">
   <img src="https://img.shields.io/badge/Bangla--first-UI%2C_voice_%26_radio-f2a20c?style=flat-square" alt="Bangla-first: UI, voice and radio">
-  <img src="https://img.shields.io/badge/live_demo-coming_soon-6b6b6b?style=flat-square" alt="Live demo coming soon">
+  <a href="https://beporowa.netlify.app"><img src="https://img.shields.io/badge/play_now-beporowa.netlify.app-0f7f7a?style=flat-square&logo=netlify&logoColor=white" alt="Play now at beporowa.netlify.app"></a>
   <br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
@@ -23,7 +23,7 @@
 
 > **Status: all 7 phases built.** Three districts of a living city, police pursuits, দ্য রিং, a real garage with ten cars, a whole day of weather, photo mode, replays, original music, a Bangla radio DJ, and now ghosts, daily and weekly চ্যালেঞ্জ, a free season pass that follows the Bangla seasons, online leaderboards, races with friends, tilt steering, rumble and accessibility settings. The full plan is in [docs/GDD.md](docs/GDD.md).
 
-**Live demo:** not deployed yet.
+**Play it now:** [beporowa.netlify.app](https://beporowa.netlify.app). Best in a desktop browser with a keyboard or a gamepad.
 
 ## Screenshots
 
