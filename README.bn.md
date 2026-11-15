@@ -286,3 +286,10 @@ npx netlify-cli deploy --build --prod
 সব ফন্ট (SIL OFL 1.1) ও লাইব্রেরির তালিকা আছে [CREDITS.md](CREDITS.md) ফাইলে।
 
 এটা একটা মৌলিক কাজ। কোনো গেম, গাড়ি নির্মাতা বা ব্র্যান্ডের সঙ্গে এর সম্পর্ক নেই।
+
+---
+
+<p align="center">
+  <i>রাস্তায় সাবধানে চালান, শুধু গেমেই বেপরোয়া হোন।</i><br>
+  <sub>Drive carefully on real roads; be reckless only in the game.</sub>
+</p>

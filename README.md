@@ -288,3 +288,10 @@ Locally, `npm run dev` also serves the leaderboard (kept in memory until the ser
 See [CREDITS.md](CREDITS.md) for all fonts (SIL OFL 1.1) and libraries.
 
 This is an original work. It is not affiliated with any game, car maker or brand.
+
+---
+
+<p align="center">
+  <i>রাস্তায় সাবধানে চালান, শুধু গেমেই বেপরোয়া হোন।</i><br>
+  <sub>Drive carefully on real roads; be reckless only in the game.</sub>
+</p>
