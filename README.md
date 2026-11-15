@@ -2,6 +2,21 @@
 
 **A Bangla-first browser street racer.** Hand-painted rickshaw colours, wet neon roads, a fictional megacity called বর্ষাবাদ (Borshabad).
 
+<p>
+  <img src="https://img.shields.io/badge/version-0.7.0-d8402b?style=flat-square" alt="Version 0.7.0">
+  <img src="https://img.shields.io/badge/Bangla--first-UI%2C_voice_%26_radio-f2a20c?style=flat-square" alt="Bangla-first: UI, voice and radio">
+  <img src="https://img.shields.io/badge/live_demo-coming_soon-6b6b6b?style=flat-square" alt="Live demo coming soon">
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL2">
+  <img src="https://img.shields.io/badge/Rapier_physics-0f7f7a?style=flat-square" alt="Rapier physics">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Web_Audio-1d2a5b?style=flat-square" alt="Web Audio">
+  <img src="https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify Functions">
+</p>
+
 বাংলায় পড়ুন: [README.bn.md](README.bn.md)
 
 ![বেপরোয়া: a monsoon street in বর্ষাবাদ, flooded, with traffic, Bangla shop signs and RJ Tuntuni on the radio](docs/screenshots/03-monsoon-flood.jpg)

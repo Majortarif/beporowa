@@ -2,6 +2,21 @@
 
 **বাংলা ভাষার ব্রাউজার স্ট্রিট রেসিং গেম।** রিকশা-পেইন্টের রং, ভেজা রাস্তায় নিয়নের আলো, আর বর্ষাবাদ নামের এক কাল্পনিক মহানগর।
 
+<p>
+  <img src="https://img.shields.io/badge/version-0.7.0-d8402b?style=flat-square" alt="সংস্করণ ০.৭.০">
+  <img src="https://img.shields.io/badge/Bangla--first-UI%2C_voice_%26_radio-f2a20c?style=flat-square" alt="বাংলা প্রথম: মেনু, কণ্ঠ আর রেডিও">
+  <img src="https://img.shields.io/badge/live_demo-coming_soon-6b6b6b?style=flat-square" alt="লাইভ ডেমো শিগগিরই">
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL2">
+  <img src="https://img.shields.io/badge/Rapier_physics-0f7f7a?style=flat-square" alt="Rapier physics">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Web_Audio-1d2a5b?style=flat-square" alt="Web Audio">
+  <img src="https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify Functions">
+</p>
+
 Read in English: [README.md](README.md)
 
 ![বেপরোয়া: বর্ষাবাদের বর্ষায় ডোবা রাস্তা, ট্রাফিক, বাংলা সাইনবোর্ড আর রেডিওতে আরজে টুনটুনি](docs/screenshots/03-monsoon-flood.jpg)
