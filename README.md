@@ -4,14 +4,28 @@
 
 বাংলায় পড়ুন: [README.bn.md](README.bn.md)
 
+![বেপরোয়া: a monsoon street in বর্ষাবাদ, flooded, with traffic, Bangla shop signs and RJ Tuntuni on the radio](docs/screenshots/03-monsoon-flood.jpg)
+
 > **Status: all 7 phases built.** Three districts of a living city, police pursuits, দ্য রিং, a real garage with ten cars, a whole day of weather, photo mode, replays, original music, a Bangla radio DJ, and now ghosts, daily and weekly চ্যালেঞ্জ, a free season pass that follows the Bangla seasons, online leaderboards, races with friends, tilt steering, rumble and accessibility settings. The full plan is in [docs/GDD.md](docs/GDD.md).
 
 **Live demo:** not deployed yet.
 
 ## Screenshots
 
-<!-- Add screenshots or a GIF here once they are captured. -->
-*Not added yet.*
+Captured in the game itself, on the Ultra preset at 1600×900. Every word on screen is the game's own Bangla.
+
+| | |
+|---|---|
+| ![Title screen: a rickshaw-painted board in ওস্তাদ's garage](docs/screenshots/01-title.jpg) | ![Night in পুরানটোলা: wet road, Bangla shop signs, a rickshaw ahead](docs/screenshots/02-night-city.jpg) |
+| **Title screen** in ওস্তাদ's garage | **Night in পুরানটোলা**: wet road, shop signs, a rickshaw ahead |
+| ![A flooded street in the monsoon, squeezing between traffic](docs/screenshots/03-monsoon-flood.jpg) | ![A race under the flyover at dusk, with rivals ahead](docs/screenshots/04-race.jpg) |
+| **Monsoon**: a flooded street, rain rings, and RJ Tuntuni warning about the water | **The Ring**: third of five under the flyover, rivals' name plates ahead |
+| ![A three-star police chase at night](docs/screenshots/05-police-chase.jpg) | ![Midday on the flyover](docs/screenshots/06-day-flyover.jpg) |
+| **Three-star chase**: the special unit right behind, police radio and DJ reacting | **Midday on the flyover**: the same city, eleven hours later |
+| ![Garage livery editor with a tiger on the door](docs/screenshots/07-garage-livery.jpg) | ![Photo mode with a rickshaw-art frame and a Bangla caption](docs/screenshots/08-photo-mode.jpg) |
+| **Rickshaw-art livery editor**: band, door art and tail slogan | **Photo mode**: sunset, a flower frame and a Bangla caption |
+| ![Challenge results with reward and season points](docs/screenshots/09-challenge-result.jpg) | ![Challenge board with leaderboard and season pass](docs/screenshots/10-challenge-board.jpg) |
+| **Daily challenge won**: gold, ghost kept, season points | **চ্যালেঞ্জ board**: word of the day, leaderboard and the হেমন্ত pass |
 
 ## What works in Phase 7
 
