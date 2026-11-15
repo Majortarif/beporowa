@@ -139,6 +139,10 @@ export class RaceHud {
       this.banner.classList.remove('is-visible');
       this.taunt.classList.remove('is-visible');
       this.count.classList.remove('is-visible');
+      // The standings and the gate arrow only update during a race, so they must be put away here.
+      this.standings.classList.remove('is-visible');
+      this.arrow.classList.remove('is-visible');
+      this.standingsKey = '';
       for (const plate of this.plates) plate.classList.remove('is-visible');
     }
   }
